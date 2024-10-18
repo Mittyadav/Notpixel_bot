@@ -27,8 +27,6 @@ Select an action:
     1. Run clicker (Session)
     2. Create session
     3. Run clicker (Query)
-"""
-
 global tg_clients
 
 def get_session_names() -> list[str]:
