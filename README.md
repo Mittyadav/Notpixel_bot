@@ -1,8 +1,8 @@
-[![Static Badge](https://img.shields.io/badge/Telegram-Channel-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/hidden_coding)
+[![Static Badge](https://img.shields.io/badge/Telegram-Channel-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/scripthub0)
 
-[![Static Badge](https://img.shields.io/badge/Telegram-Chat-yes?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/hidden_codding_chat)
+[![Static Badge](https://img.shields.io/badge/Telegram-Chat-yes?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/scripthub00)
 
-[![Static Badge](https://img.shields.io/badge/Telegram-Bot%20Link-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/notpixel/app?startapp=f355876562)
+[![Static Badge](https://img.shields.io/badge/Telegram-Bot%20Link-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](dark life)
 
 # 🎨AUTO FARM FOR NOTPIXEL 🎨
 
@@ -14,8 +14,8 @@
 
 ## MY OTHER BOTS
 
-### 💩 [Boinkers](https://github.com/YarmolenkoD/boinkers)
-### 🚀 [Moonbix](https://github.com/YarmolenkoD/moonbix) [NOT WORKING]
+### 💩 [Boinkers](https://github.com/darklife/boinkers)
+### 🚀 [Moonbix](https://github.com/darklife/moonbix) [NOT WORKING]
 
 ## Recommendation before use
 
@@ -38,7 +38,7 @@
 |              Авто claiming of reward               |     ✅     |
 
 
-## [Settings](https://github.com/YarmolenkoD/notpixel/blob/main/.env-example/)
+## [Settings](https://github.com/Mittyadav/notpixel/blob/main/.env-example/)
 |                     Settings                      |                                                         Description                                                          |
 |:-------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|
 |               **API_ID / API_HASH**               |                           Platform data from which to run the Telegram session (default - android)                           |
@@ -80,9 +80,9 @@ Before you begin, make sure you have the following installed:
 3. Record the API_ID and API_HASH provided after registering your application in the .env file.
 
 ## Installation
-You can download the [**repository**](https://github.com/YarmolenkoD/notpixel) by cloning it to your system and installing the necessary dependencies:
+You can download the [**repository**](https://github.com/Mittyadav/Notpixel_bot) by cloning it to your system and installing the necessary dependencies:
 ```shell
-git clone https://github.com/YarmolenkoD/notpixel.git
+git clone https://github.com/Mittyadav/Notpixel_bot.git
 cd notpixel
 ```
 
